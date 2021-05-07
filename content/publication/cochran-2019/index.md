@@ -17,22 +17,7 @@ authors:
 - Ivan S. Tarkin
 - Gele B. Moloney
 - Alain Corcos
-tags:
-- '"background"'
-- '"care"'
-- '"disorder"'
-- '"following injury"'
-- '"how continued opioid use"'
-- '"injured patients are at"'
-- '"limited evidence exists regarding"'
-- '"may be related to"'
-- '"misuse and opioid use"'
-- '"opioid con-"'
-- '"opioid medication"'
-- '"oud"'
-- '"risk for prolonged opioid"'
-- '"this pilot study characterized"'
-- '"use after discharge from"'
+tags: []
 categories: []
 date: '2019-01-01'
 lastmod: 2021-05-07T12:41:48-04:00
