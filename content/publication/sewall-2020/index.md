@@ -5,7 +5,7 @@ title: Interpersonal Relationships and Suicidal Ideation in Youth with Bipolar D
 subtitle: ''
 summary: ''
 authors:
-- Craig Jeffrey Robb Sewall
+- Craig J.R. Sewall
 - Tina R. Goldstein
 - Rachel H. Salk
 - John Merranko

@@ -35,8 +35,8 @@ projects: []
 publishDate: '2021-05-07T16:41:47.507693Z'
 publication_types:
 - '2'
-abstract: 'While there is a substantive body of research on benefits conveyed via
-  the human?animal bond (HAB), less is understood about disruptions to HAB and how
+abstract: While there is a substantive body of research on benefits conveyed via
+  the human animal bond (HAB), less is understood about disruptions to HAB and how
   to potentially prevent such. The construct of commitment can elucidate such scenarios
   and may also help inform related interventions; however, there are few empirical
   measures of commitment to a companion animal, and none specific to low-income owners.
@@ -48,7 +48,7 @@ abstract: 'While there is a substantive body of research on benefits conveyed vi
   animal attachment, commitment, and animal information. Qualitative interviews were
   conducted with 15 pet-owning individuals who completed the questionnaire and agreed
   to be contacted and interviewed over the phone about food security and their pets.
-  Exploratory factor analyses found three underlying factors: financial costs/burdens;
+  Exploratory factor analyses found three underlying factors - financial costs/burdens;
   pet behaviors and problems; family problems. These subscales associated with attachment
   in that higher attachment was correlated with greater commitment. However, the value
   of the correlations suggests they are different constructs. Moreover, analysis of
