@@ -56,9 +56,10 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: media/resume.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: media/resume.pdf
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -67,3 +68,5 @@ highlight_name: false
 ---
 
 I am a Postdoctoral Fellow at the University of Pittsburgh Department of Psychiatry and a Licensed Clinical Social Worker. My research focuses on leveraging computational modeling and passive sensing technologies to predict suicidality among youth.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/May12_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
