@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Craig J.R. Sewall
+title: Craig J.R. Sewall, PhD
 
 # Is this the primary user of the site?
 superuser: true
