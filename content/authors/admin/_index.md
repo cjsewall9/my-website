@@ -69,4 +69,4 @@ highlight_name: false
 
 I am a Postdoctoral Fellow at the University of Pittsburgh Department of Psychiatry and a Licensed Clinical Social Worker. My research focuses on leveraging computational modeling and passive sensing technologies to predict suicidality among youth.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/May12_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
