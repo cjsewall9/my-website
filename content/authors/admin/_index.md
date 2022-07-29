@@ -10,7 +10,7 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Pittsburgh
+- name: University of Pittsburgh School of Medicine
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
