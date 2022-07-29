@@ -55,5 +55,5 @@ publication: '*Current Opinion in Psychology*'
 doi: 10.1016/j.copsyc.2021.11.005
 links:
 - name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S2352250X21002293
+  url: https://psyarxiv.com/exhru/
 ---
