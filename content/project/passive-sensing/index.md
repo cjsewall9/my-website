@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Passive Sensing"
-summary: Leveraging passive sensing data and machine learning to predict psychological distress
+summary: "Leveraging passive sensing data and machine learning to predict psychological distress"
 authors: []
 tags: []
 categories: []
