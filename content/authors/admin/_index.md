@@ -14,13 +14,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoctoral Fellow at the University of Pittsburgh Department of Psychiatry and a Licensed Clinical Social Worker. My research focuses on leveraging computational modeling and passive sensing technologies to predict suicidality among youth.
+#bio: I am a Postdoctoral Fellow at the University of Pittsburgh Department of Psychiatry and a Licensed Clinical Social Worker. My research focuses on leveraging computational modeling and passive sensing technologies to predict suicidality among youth.
 
 # Interests to show in About widget
 interests:
-- Youth Suicide
-- Quantitative Methods
-- Ubiquitous Computing
+- Mental Health
+- Computational Modeling
+- Passive Sensing
+- Social Media
 
 # Education to show in About widget
 education:
@@ -42,16 +43,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:cjs227@pitt.edu
+  link: mailto:cjsewall9@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/cjsewall9
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=bg73ehMAAAAJ&hl=en
-- icon: github
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/cjsewall9
+  link: www.linkedin.com/in/craigjrsewall
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -66,6 +67,5 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-I am a Postdoctoral Fellow at the University of Pittsburgh Department of Psychiatry and a Licensed Clinical Social Worker. My research focuses on leveraging computational modeling and passive sensing technologies to predict suicidality among youth.
+Dr. Sewall is a Postdoctoral Fellow in the Department of Psychiatry at the University of Pittsburgh School of Medicine and a Licensed Clinical Social Worker. His research has two interrelated foci: (1) understanding the relationship between digital media use and well-being among youth, and (2) leveraging advancements in ubiquitous computing and computational modeling to develop suicide prevention tools. Dr. Sewall’s current NIMH-funded work applies machine learning to passive sensing data collected from smartphones and wearables to predict suicidality among high-risk youth. Dr. Sewall’s research has been published in top-tier academic journals such as _Nature Human Behavior_, _Journal of Child Psychology and Psychiatry_, _Journal of Affective Disorders_, and _Clinical Psychological Science_, and featured in popular media outlets such as _Fast Company_, _Psychology Today_, and _Medical News Today_. 
 
