@@ -52,7 +52,7 @@ social:
   link: https://scholar.google.com/citations?user=bg73ehMAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/craigjrsewall
+  link: https://www.linkedin.com/in/craigjrsewall
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
