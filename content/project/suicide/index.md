@@ -46,7 +46,5 @@ Suicide is a highly complex phenomenon signified by a multifactorial causal proc
 
 Dr. Sewall employs a variety of advanced data collection and analysis methodologies (e.g., passive sensing; ecological momentary assessment; multilevel structural equation modeling; machine learning) to identify/examine the processes that increase risk for suicidal thoughts and behaviors among youth and how these processes vary across people and contexts.
 
-{{< cite page="/publication/sewall-personalizing-2021" view="citation" >}}
-{{< cite page="/publication/sewall-bayesian-2021" view="citation" >}}
-{{< cite page="/publication/biernesser-social-2020" view="citation" >}}
+
 
