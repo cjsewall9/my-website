@@ -3,7 +3,7 @@
 
 title: "Suicide Research"
 subtitle: ""
-summary: "Test"
+summary: "Investigate processes that increase suicide risk among youth and how they vary across people and contexts."
 authors: []
 tags: []
 categories: []
@@ -45,6 +45,10 @@ slides: ""
 Suicide is a highly complex phenomenon signified by a multifactorial causal process that varies significantly from person-to-person. Risk for suicide is influenced by a variety of social, economic, environmental, and demographic factors that act at the developmental, contextual, distal, and proximal levels. Compounding this complexity is the fact that the same risk factors often do not have the same effect for different people, or even the same effect for the same person at different points in time. 
 
 Dr. Sewall employs a variety of advanced data collection and analysis methodologies (e.g., passive sensing; ecological momentary assessment; multilevel structural equation modeling; machine learning) to identify/examine the processes that increase risk for suicidal thoughts and behaviors among youth and how these processes vary across people and contexts.
+
+{{< cite page="/publication/biernesser-social-2020" >}}
+{{< cite page="/publication/sewall-bayesian-2021" >}}
+{{< cite page="/publication/sewall-personalizing-2021" >}}
 
 
 
