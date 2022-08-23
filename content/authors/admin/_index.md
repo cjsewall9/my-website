@@ -57,9 +57,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: resume.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,3 +69,4 @@ highlight_name: false
 ---
 Dr. Sewall is a Postdoctoral Fellow in the Department of Psychiatry at the University of Pittsburgh School of Medicine and a Licensed Clinical Social Worker. His research has two interrelated foci: (1) understanding the relationship between digital media use and well-being among youth, and (2) leveraging advancements in ubiquitous computing and computational modeling to develop suicide prevention tools. Dr. Sewall’s current NIMH-funded work applies machine learning to passive sensing data collected from smartphones and wearables to predict suicidality among high-risk youth. Dr. Sewall’s research has been published in top-tier academic journals such as _Nature Human Behavior_, _Journal of Child Psychology and Psychiatry_, _Journal of Affective Disorders_, and _Clinical Psychological Science_, and featured in popular media outlets such as _Fast Company_, _Psychology Today_, and _Medical News Today_. 
 
+{{% staticref "uploads/resume.pdf" "newtab" %}}Download my resume{{% /staticref %}}
