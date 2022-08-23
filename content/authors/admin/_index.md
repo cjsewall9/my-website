@@ -6,7 +6,7 @@ title: Craig J.R. Sewall, PhD
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -59,7 +59,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/resume.pdf
+  link: resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
