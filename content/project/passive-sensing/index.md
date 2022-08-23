@@ -2,11 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Passive Sensing"
+subtitle: ""
 summary: "Leveraging passive sensing data and machine learning to predict psychological distress"
 authors: []
 tags: []
 categories: []
 date: 2022-08-22T14:22:54-04:00
+featured: true
+draft: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -2,11 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Suicide Research"
-summary: ""
+subtitle: ""
+summary: "Test"
 authors: []
 tags: []
 categories: []
 date: 2022-08-22T16:04:42-04:00
+featured: true
+draft: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
