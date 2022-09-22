@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Social Work
+  - course: PhD in Quantitative Social Science
     institution: University of Pittsburgh
     year: 2021
   - course: Master of Social Work (MSW)
@@ -67,6 +67,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Dr. Sewall is a Postdoctoral Fellow in the Department of Psychiatry at the University of Pittsburgh School of Medicine and a Licensed Clinical Social Worker. His research has two interrelated foci: (1) understanding the relationship between digital media use and well-being among youth, and (2) leveraging advancements in ubiquitous computing and computational modeling to develop suicide prevention tools. Dr. Sewall’s current NIMH-funded work applies machine learning to passive sensing data collected from smartphones and wearables to predict suicidality among high-risk youth. Dr. Sewall’s research has been published in top-tier academic journals such as _Nature Human Behavior_, _Journal of Child Psychology and Psychiatry_, _Journal of Affective Disorders_, and _Clinical Psychological Science_, and featured in popular media outlets such as _Fast Company_, _Psychology Today_, and _Medical News Today_. 
+Dr. Sewall is a Clinical Data Scientist in the Department of Psychiatry at the University of Pittsburgh School of Medicine and a Licensed Clinical Social Worker. His research has two interrelated foci: (1) understanding the relationship between digital media use and well-being among youth, and (2) leveraging advancements in ubiquitous computing and computational modeling to develop suicide prevention tools. Dr. Sewall’s current NIMH-funded work applies machine learning to passive sensing data collected from smartphones and wearables to predict suicidality among high-risk youth. Dr. Sewall’s research has been published in top-tier academic journals such as _Nature Human Behavior_, _Journal of Child Psychology and Psychiatry_, _Journal of Affective Disorders_, and _Clinical Psychological Science_, and featured in popular media outlets such as _Fast Company_, _Psychology Today_, and _Medical News Today_. 
 
 {{% staticref "uploads/resume.pdf" "newtab" %}}Download my resume{{% /staticref %}}
